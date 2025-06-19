@@ -17,9 +17,8 @@
 #     cmake-args: -DCONFIG_ZMK_STUDIO=y
 #     artifact-name: corne_left_with_studio
 #
----
 include:
   - board: seeeduino_xiao_ble
-    shield: clog_left
+    shield: totem_left
   - board: seeeduino_xiao_ble
-    shield: clog_right
+    shield: totem_right
