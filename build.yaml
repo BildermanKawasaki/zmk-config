@@ -20,6 +20,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: jian_left
+    shield: TOTEM_left
   - board: seeeduino_xiao_ble
-    shield: jian_right
+    shield: TOTEM_right
