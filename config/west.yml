@@ -1,6 +1,5 @@
 manifest:
   defaults:
-    revision: v0.2
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
@@ -12,6 +11,7 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
+      revision: v0.2
     - name: zmk-keyboard-TOTEM
       remote: BildermanKawasaki
       import: boards/shields/TOTEM
