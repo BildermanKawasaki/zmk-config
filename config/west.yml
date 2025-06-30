@@ -14,9 +14,6 @@ manifest:
     - name: zmk-keyboard-TOTEM
       remote: BildermanKawasaki
       revision: main
-    - name: zmk-auto-layer
-      remote: urob
-      revision: main
     - name: zmk-adaptive-key
       remote: urob
       path: modules/zmk/adaptive-key
